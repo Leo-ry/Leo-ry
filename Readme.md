@@ -34,6 +34,6 @@ AOP 기반 보안 솔루션: 시스템 성능에 영향을 주지 않는 자동 
 접근 제어: 역할 기반 권한 시스템(RBAC) 및 감사 로그 이중 기록 체계를 구축하여 사후 추적 능력을 강화했습니다.
 
 📫 Contact
-Email: Leona.8904@gmail.com 
-Phone: 010-9230-8428 
+Email: Leona.8904@gmail.com <br/> 
+Phone: 010-9230-8428 <br/>
 Languages: English (Conversational), Spanish (Conversational)
